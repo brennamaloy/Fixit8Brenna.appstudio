@@ -4,3 +4,8 @@ welcome.onshow=function(){
   lblMessage.backgroundColor = "#ADD8E6"
 }
 
+
+
+btnNextForm1.onclick=function(){
+    ChangeForm(membership)
+}

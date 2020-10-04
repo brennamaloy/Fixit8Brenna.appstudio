@@ -14,46 +14,28 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoControls",
         "Elements",
-        "inptMembership.json"
+        "DDFormSelection.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoControls",
         "Elements",
-        "btnFirstName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "lblIsMember.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "btnNextForm.json"
+        "pgnPages.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 320,
+  "designWidth": 460,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "membership",
+  "height": 320,
+  "id": "twoControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -66,11 +48,9 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": 460
 }
