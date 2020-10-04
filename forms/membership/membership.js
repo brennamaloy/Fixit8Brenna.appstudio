@@ -15,3 +15,10 @@ btnFirstName.onclick=function(){
   }
 }
 
+
+
+
+
+btnNextForm.onclick=function(){
+  ChangeForm(calculator)
+}
